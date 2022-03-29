@@ -1,1 +1,2 @@
 text dosyasi olusturuldu
+text dosyasi frontendde degistirildi
